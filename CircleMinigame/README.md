@@ -27,3 +27,4 @@ end)
 # Amount and Time now work, but functioning success now doesn't go over to the export.
 
 - [OG Creator Nathan-FiveM](https://github.com/Nathan-FiveM/qb-lock)
+- Modified specially by DevKilo.
